@@ -1,3 +1,4 @@
+[![bsalim's 42 stats](https://badge.mediaplus.ma/levi/bsalim)](https://github.com/oakoudad/badge42)
 - 👋 Hi, I’m @benkhaitisalim
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning c luanguage
